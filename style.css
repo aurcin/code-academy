@@ -1,0 +1,39 @@
+@import url(//db.onlinewebfonts.com/c/7cc6719bd5f0310be3150ba33418e72e?family=Comic+Sans+MS);
+
+.navigation {
+  list-style: none;
+  padding-left: 0;
+
+  display: flex;
+  gap: 1em;
+}
+
+.red-text {
+  color: red;
+}
+
+.blue-text {
+  color: blue;
+}
+.green-text {
+  color: green;
+}
+
+.bg {
+  font-family: Arial sans-serif;
+}
+
+.red-bg {
+  background-color: red;
+}
+
+.blue-bg {
+  background-color: blue;
+}
+.green-bg {
+  background-color: green;
+}
+
+.grey-text {
+  color: rgb(78, 78, 78);
+}
