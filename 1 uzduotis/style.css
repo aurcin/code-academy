@@ -1,3 +1,8 @@
+@font-face {
+  font-family: Comic;
+  src: url(./font/ComicSansMS3.ttf);
+}
+
 .navigation {
   list-style: none;
   padding-left: 0;
@@ -18,7 +23,7 @@
 }
 
 .colored-bg {
-  font-family: 'comic-sans-ms-regular', sans-serif;
+  font-family: 'comic', sans-serif;
   padding: 5px;
   font-weight: bold;
 }
